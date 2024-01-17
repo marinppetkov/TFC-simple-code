@@ -1,3 +1,3 @@
 #!/bin/bash
-python3 main.py abc
+python3 main.py 123
 # Test
